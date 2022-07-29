@@ -1,9 +1,9 @@
 {
-    "directory_name": "python_example_project",
-    "project_name": "python_example_project",
+    "directory_name": "cookiecutter-pypackage",
+    "project_name": "cookiecutter-pypackage",
     "author": "Daniel Novak",
     "email": "danielnovak444@gmail.com",
-    "description": "A template Python project",
+    "description": "jumpstart cookiecutter",
     "license": "MIT",
     "version": "0.1.0",
     "python_version": "^3.9",
