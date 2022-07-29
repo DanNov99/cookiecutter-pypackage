@@ -1,6 +1,7 @@
 {
     "directory_name": "cookiecutter-pypackage",
     "project_name": "cookiecutter-pypackage",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
     "author": "Daniel Novak",
     "email": "danielnovak444@gmail.com",
     "description": "jumpstart cookiecutter",
